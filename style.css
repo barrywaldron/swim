@@ -6,3 +6,9 @@ body {
   margin: 0 auto;  
   max-width: 980px;  
 }
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
