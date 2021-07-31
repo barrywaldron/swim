@@ -9,8 +9,14 @@ body {
 .header {
   color: #fff;
   display: flex;
-  align-items: center;
-  
+  align-items: center;   
+}
+.swimmer {
+  border:solid 1px #fff;
+  color: #fff;
+}
+h2 {
+  color: #d3d3d3;
 }
 ul {
   list-style-type: none;
@@ -33,4 +39,8 @@ ul {
   margin-right: 20px;
   padding-right: 20px;
   border-top: 1px solid #fff;
+  font-size: 30px;
+}
+p {
+  color: #d3d3d3;
 }
