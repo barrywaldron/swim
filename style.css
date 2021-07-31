@@ -15,12 +15,23 @@ body {
   border:solid 1px #fff;
   color: #fff;
 }
+.activity {
+ 
+  padding-right: 20px;
+}
+h1 {
+  color: #fff;
+}
 h2 {
   color: #d3d3d3;
 }
 ul {
   list-style-type: none;
 }
+p {
+  color: #d3d3d3;
+}
+
 
 .stats {
   color: #fff;
@@ -40,7 +51,4 @@ ul {
   padding-right: 20px;
   border-top: 1px solid #fff;
   font-size: 30px;
-}
-p {
-  color: #d3d3d3;
 }
