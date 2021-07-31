@@ -11,13 +11,10 @@ body {
   display: flex;
   align-items: center;   
 }
-.swimmer {
-  border:solid 1px #fff;
-  color: #fff;
+
 }
 .activity {
- 
-  padding-right: 20px;
+  color: #fff;
 }
 h1 {
   color: #fff;
