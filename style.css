@@ -19,6 +19,7 @@ body {
 }
 h1 {
   color: #fff;
+  
 }
 h2 {
   color: #d3d3d3;
@@ -51,7 +52,7 @@ p {
   font-size: 30px;
 }
 .like {
-  position: relative;
+  position: relative;  
   bottom: 0;
   right: 0;
   padding: 25px 20px;
