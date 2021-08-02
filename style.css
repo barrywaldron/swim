@@ -59,7 +59,7 @@ p {
 .like-list {
   display: flex;
   justify-content: space-evenly;
-  border-top: solid #fff;
+  border: solid #fff;
   
 }
 
