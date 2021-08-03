@@ -16,6 +16,7 @@ body {
 .activity {
   color: #fff;
   
+  
 }
 h1 {
   color: #fff;
@@ -49,19 +50,20 @@ p {
   margin-right: 20px;
   padding-right: 20px;
   border-top: 1px solid #fff;
+  font-size: 40px;
+}
+.first {
   font-size: 30px;
-}
-.like {
-  position: relative;  
-  bottom: 0;
-  right: 0;
-  padding: 25px 20px;
-}
-.like-list {
-  display: flex;
-  justify-content: space-evenly;
-  border: solid #fff;
+  padding-left: 20px;
   
 }
+.like {
+  display: inline-block;
+  
+}
+
+
+  
+
 
 
