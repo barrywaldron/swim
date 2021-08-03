@@ -51,14 +51,26 @@ p {
   padding-right: 20px;
   border-top: 1px solid #fff;
   font-size: 40px;
+  line-height: 0;
 }
+
 .first {
   font-size: 30px;
   padding-left: 20px;
   
 }
 .like {
-  display: inline-block;
+  display: flex;
+  justify-content: space-around;
+  border-top: solid #fff;
+  padding-top: 50px;
+  
+}
+.heart {
+  
+}
+.speech {
+  padding-right: 70px;
   
 }
 
